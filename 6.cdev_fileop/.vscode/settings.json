@@ -12,7 +12,8 @@
         "kdev_t.h": "c",
         "fs.h": "c",
         "cdev.h": "c",
-        "kobject.h": "c"
+        "kobject.h": "c",
+        "cstdarg": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

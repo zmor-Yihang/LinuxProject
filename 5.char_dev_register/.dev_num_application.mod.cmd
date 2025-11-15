@@ -1,1 +1,0 @@
-savedcmd_/home/zmor/nuaa/4.dev_num_application/dev_num_application.mod := printf '%s\n'   dev_num_application.o | awk '!x[$$0]++ { print("/home/zmor/nuaa/4.dev_num_application/"$$0) }' > /home/zmor/nuaa/4.dev_num_application/dev_num_application.mod
